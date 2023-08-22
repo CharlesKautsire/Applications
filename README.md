@@ -2,6 +2,7 @@
 Step into the future of technology with Aiden, an app for iPhone and iPad focused on Artificial Intelligence (AI). This app is an alternative to existing solutions but with a robust, reimagined twist. It offers access to several generative AI services (ChatGPT, Andisearch, Bard, Llama, Bing Image Creator, DALL.E, Perplexity, MusicLM, etc.*). It supports multiple Search Engines, Safari Extensions, a Share Extension, Custom Prompts, Siri Shortcuts and is integrated with the Opener and iCabMobile apps. When it comes to privacy and security, Aiden does not track users and will also work with your device on a Virtual Private Network. [Download it here](https://apps.apple.com/us/app/aiden-your-ai-assistant/id6447982264) for a one-time fee of $1.99 (no subscriptions), and stand out by unleashing AI-driven, game changing productivity and possibilities today.
 
 [The Comprehensive User Guide](https://allaboutpdf.com/blog/2023/8/20/unleash-your-productivity-introducing-aiden-your-ai-assistant-for-iphone-and-ipad)
+
 *No affiliations
 
 # 1Extn - Extensions & Shortcuts

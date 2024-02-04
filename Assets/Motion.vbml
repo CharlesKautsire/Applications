@@ -1,18 +1,13 @@
-# vbml 1.0.5
+# vbml 1.0.6
 
-type: playlist
+type: live
 
-title: Chillwave feed
+source: http://ice31.securenetsystems.net/TIMESFM?
 
-cover: https://yt3.ggpht.com/ytc/AMLnZu8pwRLN72T--emyf0179LivUJFM9rvFxNHqu8bD=s900-c-k-c0x00ffffff-no-rj
+title: Times 360 Malawi
 
-tracks: |
-    https://raw.githubusercontent.com/omega-gg/VBML/master/samples/track/track.vbml
-    https://www.youtube.com/watch?v=Jz0F3TugBi8
-    https://www.dailymotion.com/video/x6el0lp
-    https://vimeo.com/350662849
-    https://soundcloud.com/amazr-mastering/neon-palms-chillwave-sample-pack
-    https://vbml.omega.gg/eJx0zkFLwzAYgOH79ysCnpekcU4JiODYYSAVRTd3Gmn6rc1Im9J-bW1_vdHLvAze88N7w4as8izhkq8AaGpQM-8GBAitK1ytWUnUdFqIcRz5FHrqM-Q2VGI0ZMun4XFlw_uxk9NBPUTAkY_Cy3a30Sx9XrMUx46lr3sAGwZsL5zjE7mq-KMGJ_4pojLfLXY5nkzv6fh7w89NAWB6KkN7cQFOiPn1Q1uaukYvPtd4kFlW036ed1tzVvPtmyu-opgbirdKquVCqthHstTJvb5T8AMAAP__AwCKtVr7
-    track:
-        title: Aljazeera
-        source: https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+cover: https://yt3.googleusercontent.com/o_6whDlfftV4osUh91jmZvTUzws8Ry1neVOPz5P7S5TlQbKe41O-GYNL_C1dTBqmZpxunWylhbE=s176-c-k-c0x00ffffff-no-rj
+
+author: Times 360 Malawi
+
+feed: https://www.youtube.com/@times360malawi

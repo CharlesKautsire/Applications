@@ -1,6 +1,6 @@
 # vbml 1.0.6
 
-type: channel
+type: hub
 
 source: http://ice31.securenetsystems.net/TIMESFM?
 

@@ -1,8 +1,8 @@
 # vbml 1.0.6
 
-type: channel
+type: hub
 
-playlist: https://www.youtube.com/@NBCNews/live
+source: https://www.youtube.com/@NBCNews/live
 
 title: NBC News
 

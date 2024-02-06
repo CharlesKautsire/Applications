@@ -1,0 +1,13 @@
+# vbml 1.0.6
+
+type: channel
+
+source: https://www.youtube.com/@NBCNews/live
+
+title: NBC News
+
+cover: https://i.pinimg.com/736x/d8/75/dd/d875dd64c1776675456cd24d036cfd52.jpg
+
+author: NBC News
+
+feed: https://www.youtube.com/@NBCNews

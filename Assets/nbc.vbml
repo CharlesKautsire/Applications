@@ -2,7 +2,7 @@
 
 type: hub
 
-track: https://www.youtube.com/@NBCNews/live
+feed: https://www.youtube.com/@NBCNews/live
 
 title: NBC News
 

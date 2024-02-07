@@ -2,11 +2,12 @@
 
 type: playlist
 
-title: Space Opera
+title: Media
 
 cover: https://i.pinimg.com/474x/9d/3b/42/9d3b42337d22a0ae54572d8a96c18df3.jpg
 
 tracks: |
-    http://89.187.179.11:88/Flussonic/Movies/English/
-    https://tartarus.feralhosting.com/firepig/JP/MOVIES/The%20Avengers%20%282012%29/The.Avengers.2012.720p.BluRay.x264.YIFY.mp4
-    https://jacobsm.com/geedryve/records/mp3s/Sade/01.Smooth%20Operator.mp3
+    http://radiostream.mbc.mw:88/broadwavehigh.mp3?src=1
+    http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1
+    https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+
